@@ -51,7 +51,8 @@ def whiler(com):
 
 
 def error(num, error_type):
-    print(f'\033[91mGit Error #{num} >> {error_type} \033[0m')
+    #print(f'\033[91mGit Error #{num} >> {error_type} \033[0m')
+    print('')
 
 def compiler(t):
     if t:
