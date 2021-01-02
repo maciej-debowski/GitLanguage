@@ -1,0 +1,12 @@
+{
+    "name": "git",
+    "version": "1.0.1",
+    "description": "A Git Programming Language",
+    "main": "shell.py",
+    "scripts": {
+      "start":"py shell.py"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
